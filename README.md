@@ -1,1 +1,1 @@
-[![Run on Repl.it](https://youtube.com/badge/github/ditt12/js)](https://youtube.com)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
