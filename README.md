@@ -2,8 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![FUCK WORLD](gambar/ascii-text-art.png
-g)
+![FUCK WORLD](https://i.ibb.co.com/qgvjvS9/ascii-text-art.png)
 
 `SOSIAL MEDIA`
 
